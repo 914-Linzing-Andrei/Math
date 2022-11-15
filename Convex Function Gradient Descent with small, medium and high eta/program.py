@@ -59,6 +59,8 @@ plt.plot(y, f(y), color='purple', label='Function')
 values = np.array(x_list)
 plt.scatter(x_list,f(values), color = 'red')
 
+"""big eta"""
+
 new_x = 7
 previous_x = 0
 step_multiplier = 1
